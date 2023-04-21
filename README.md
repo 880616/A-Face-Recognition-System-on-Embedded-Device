@@ -1,4 +1,3 @@
-# Face-Recognition-System
 # A Face Recognition System on Embedded Device
 ###### tags: `github_project`
 ## Introduce
