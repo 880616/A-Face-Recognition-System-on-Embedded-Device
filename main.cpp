@@ -145,6 +145,8 @@ int main ( int argc, const char *argv[] )
 	// get size of the video frame
         // https://docs.opencv.org/3.4.7/d3/d63/classcv_1_1Mat.html#a146f8e8dda07d1365a575ab83d9828d1
         /*frame_size = frame.size();
+	
+	
 	cv::cvtColor(frame, frame, cv::COLOR_BGR2BGR565);
         
         // output the video frame to framebufer row by row
