@@ -8,5 +8,4 @@
 - Display the image of the detected face
 - Display the features of the detected face
 - This system can identify three different people
-## The procedure of Face Recognition System
-![](https://i.imgur.com/ENd3tGR.png)
+
